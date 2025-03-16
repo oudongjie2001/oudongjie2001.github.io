@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Dongjie Ou"
 description              : &description "personal description"
 url                      : https://oudongjie2001.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "https://oudongjie2001.github.io/blog" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -39,7 +39,6 @@ Swiftie"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-6755-0247"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
