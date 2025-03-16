@@ -11,7 +11,13 @@ I am Dongjie Ou, a master’s student at the School of Economics, Southwest Univ
 
 Outside of my academic life, I am an aviation enthusiast and enjoys music, hiking and trips. I grew up in Chongqing, a beautiful city in southwest China.
 
-Eduation
+🔥 News
+======
+- 2025.03.25  A paper has entered the anonymous external review stage of the journal [*World Economy Papers*](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml)(ISSN: 0488-6364).
+- 2025.03.04  A paper has entered the anonymous external review stage of the journal [*Review of Industrial Economics*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (ISSN：2095-7572)
+- 2024.12     Awarded the 2023–2024 **National Scholarship for Master’s Students** (Ministry of Education of the People’s Republic of China).
+
+🏫 Eduation
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
