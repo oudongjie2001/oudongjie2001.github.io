@@ -33,9 +33,14 @@ Outside of my academic life, I am an aviation enthusiast and enjoys music, hikin
 - 2024.11.01&emsp;The 12th KeHui Graduate Innovation and Entrepreneurship Competition, Second Prize of the Entrepreneurship Practice Category
 - 2024.05.11&emsp;The “Boyu Cup” Belt and Road Initiative Project Case Competition, Third Prize
 
-Site-wide configuration
+📆 Posters and Presentations
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- 2024.10&emsp;The 10th Zhang Peigang Award for Outstanding Achievements in Development Economics & the 7th Zhang Peigang Young Scholar Award in Development Economics Ceremony and the Forum on “Building a High-Level Socialist Market Economy System to Promote Chinese Modernization”, Wuhan, China
+- 2024.10&emsp;[The 14th Graduate Academic Innovation Forum of the School of Economics, Southwest University of Political Science and Law](https://es.swupl.edu.cn/xzjl/5fa34a3e7f324762862565d715fc1e7e.htm), Chongqing, China
+
+
+
+
 
 Create content & metadata
 ------
