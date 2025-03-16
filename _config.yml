@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dongjie Ou(欧东杰)"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Dongjie Ou"
 description              : &description "personal description"
