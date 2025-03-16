@@ -27,14 +27,9 @@ Outside of my academic life, I am an aviation enthusiast and enjoys music, hikin
 
 🎖️ Honors and Awards
 ------
-!
-
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- 2024.12.01  2023–2024 **National Scholarship for Master’s Students**
+excerpt: "<br/><img src='/images/National Scholarship.png'>"
+- 2024.11.01  the 12th KeHui Graduate Innovation and Entrepreneurship Competition,Second Prize of the Entrepreneurship Practice Category
 
 Site-wide configuration
 ------
