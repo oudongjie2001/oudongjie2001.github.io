@@ -28,7 +28,7 @@ Outside of my academic life, I am an aviation enthusiast and enjoys music, hikin
 🎖️ Honors and Awards
 ------
 - 2024.12.01  2023–2024 **National Scholarship for Master’s Students**
-excerpt: "<br/><img src='/images/National Scholarship.png'>"
+excerpt: "<br/><img src='/images/National Scholarship.png' style='width: 300px; height: auto; float: left; margin-right: 10px;'>"
 - 2024.11.01  the 12th KeHui Graduate Innovation and Entrepreneurship Competition,Second Prize of the Entrepreneurship Practice Category
 
 Site-wide configuration
