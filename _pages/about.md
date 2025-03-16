@@ -19,11 +19,11 @@ Outside of my academic life, I am an aviation enthusiast and enjoys music, hikin
 
 🏫 Eduation
 ------
-*2023.09 ~ Present* Master, School of Economics, Southwest University of Political Science and Law, Master of International Business
+- *2023.09 ~ Present* Master, School of Economics, Southwest University of Political Science and Law, Master of International Business
   Advisor: [Associate Professor Lijun Yang（杨丽君）](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283110.htm).
-*2019.09 ~ 2023.07* Undergraduate, School of Economics, Southwest University of Political Science and Law, International Economics and Trade (Bachelor of Economics)
-  Undergraduate Thesis: International Trade and Market Segmentation Among Regions in China (*One of the 100 Outstanding Undergraduate Theses of the 2023 Cohort, Southwest University of Political Science and Law*)
-  Thesis Advisor: [Ming’e Wu](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283106.htm).
+- *2019.09 ~ 2023.07* Undergraduate, School of Economics, Southwest University of Political Science and Law, International Economics and Trade (Bachelor of Economics)
+  - Undergraduate Thesis: International Trade and Market Segmentation Among Regions in China (*One of the 100 Outstanding Undergraduate Theses of the 2023 Cohort, Southwest University of Political Science and Law*)
+  - Thesis Advisor: [Ming’e Wu](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283106.htm).
 
 🎖️ Honors and Awards
 ------
