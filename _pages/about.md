@@ -18,7 +18,6 @@ Outside of my academic life, I am an aviation enthusiast and enjoys music, hikin
 - 2024.12.01&emsp;Awarded the 2023–2024 **National Scholarship for Master’s Students** ([*The highest honorary award established by the state for graduate education in China*](https://www.gov.cn/fuwu/2014-06/11/content_2698545.htm)).
   <br/><img src='/images/National Scholarship.png' style='width: 300px; height: auto; float: left; margin-right: 10px;'>
 
-
 📖 Eduation
 ------
 - *2023.09 ~ Present*&emsp;Master, School of Economics, Southwest University of Political Science and Law, Master of International Business
