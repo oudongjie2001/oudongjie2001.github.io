@@ -13,23 +13,25 @@ Outside of my academic life, I am an aviation enthusiast and enjoys music, hikin
 
 🔥 News
 ------
-- 2025.03.25  A paper has entered the anonymous external review stage of the journal [*World Economy Papers*](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml) (ISSN: 0488-6364).
-- 2025.03.04  A paper has entered the anonymous external review stage of the journal [*Review of Industrial Economics*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (ISSN：2095-7572).
-- 2024.12.01  Awarded the 2023–2024 **National Scholarship for Master’s Students** ([*The highest honorary award established by the state for graduate education in China*](https://www.gov.cn/fuwu/2014-06/11/content_2698545.htm)).
+- 2025.03.25&emsp;A paper has entered the anonymous external review stage of the journal [*World Economy Papers*](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml) (ISSN: 0488-6364).
+- 2025.03.04&emsp;A paper has entered the anonymous external review stage of the journal [*Review of Industrial Economics*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (ISSN：2095-7572).
+- 2024.12.01&emsp;Awarded the 2023–2024 **National Scholarship for Master’s Students** ([*The highest honorary award established by the state for graduate education in China*](https://www.gov.cn/fuwu/2014-06/11/content_2698545.htm)).
+  <br/><img src='/images/National Scholarship.png' style='width: 300px; height: auto; float: left; margin-right: 10px;'>
 
-🏫 Eduation
+
+📖 Eduation
 ------
-- *2023.09 ~ Present* Master, School of Economics, Southwest University of Political Science and Law, Master of International Business
+- *2023.09 ~ Present*&emsp;Master, School of Economics, Southwest University of Political Science and Law, Master of International Business
   Advisor: [Associate Professor Lijun Yang(杨丽君)](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283110.htm).
-- *2019.09 ~ 2023.07* Undergraduate, School of Economics, Southwest University of Political Science and Law, International Economics and Trade (Bachelor of Economics)
+- *2019.09 ~ 2023.07*&emsp;Undergraduate, School of Economics, Southwest University of Political Science and Law, International Economics and Trade (Bachelor of Economics)
   - Undergraduate Thesis: International Trade and Market Segmentation Among Regions in China (*One of the 100 Outstanding Undergraduate Theses of the 2023 Cohort, Southwest University of Political Science and Law*)
   - Thesis Advisor: [Ming’e Wu(吴明娥)](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283106.htm).
 
 🎖️ Honors and Awards
 ------
-- 2024.12.01  2023–2024 **National Scholarship for Master’s Students**
-excerpt: "<br/><img src='/images/National Scholarship.png' style='width: 300px; height: auto; float: left; margin-right: 10px;'>"
-- 2024.11.01  the 12th KeHui Graduate Innovation and Entrepreneurship Competition,Second Prize of the Entrepreneurship Practice Category
+- 2024.12.01&emsp;2023–2024 **National Scholarship for Master’s Students**
+- 2024.11.01&emsp;The 12th KeHui Graduate Innovation and Entrepreneurship Competition, Second Prize of the Entrepreneurship Practice Category
+- 2024.05.11&emsp;The “Boyu Cup” Belt and Road Initiative Project Case Competition, Third Prize
 
 Site-wide configuration
 ------
