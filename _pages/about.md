@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Dongjie Ou, a master’s student at the School of Economics, Southwest University of Political Science and Law.  My advisor is [Associate Professor Lijun Yang（杨丽君）](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283110.htm). My research interests lie in **urban (agglomeration) and regional economics, industrial economics, and international trade**. My work involves both reduced-form and structural analyses.
+I am Dongjie Ou, a master’s student at the School of Economics, Southwest University of Political Science and Law.  My advisor is [Associate Professor Lijun Yang(杨丽君)](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283110.htm). My research interests lie in **urban (agglomeration) and regional economics, industrial economics, and international trade**. My work involves both reduced-form and structural analyses.
 
 Outside of my academic life, I am an aviation enthusiast and enjoys music, hiking and trips. I grew up in Chongqing, a beautiful city in southwest China.
 
@@ -20,10 +20,10 @@ Outside of my academic life, I am an aviation enthusiast and enjoys music, hikin
 🏫 Eduation
 ------
 - *2023.09 ~ Present* Master, School of Economics, Southwest University of Political Science and Law, Master of International Business
-  Advisor: [Associate Professor Lijun Yang（杨丽君）](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283110.htm).
+  Advisor: [Associate Professor Lijun Yang(杨丽君)](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283110.htm).
 - *2019.09 ~ 2023.07* Undergraduate, School of Economics, Southwest University of Political Science and Law, International Economics and Trade (Bachelor of Economics)
   - Undergraduate Thesis: International Trade and Market Segmentation Among Regions in China (*One of the 100 Outstanding Undergraduate Theses of the 2023 Cohort, Southwest University of Political Science and Law*)
-  - Thesis Advisor: [Ming’e Wu](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283106.htm).
+  - Thesis Advisor: [Ming’e Wu(吴明娥)](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283106.htm).
 
 🎖️ Honors and Awards
 ------
