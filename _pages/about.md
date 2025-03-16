@@ -16,7 +16,8 @@ Outside of my academic life, I am an aviation enthusiast and enjoys music, hikin
 - 2025.03.25&emsp;A paper has entered the anonymous external review stage of the journal [*World Economy Papers*](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml) (ISSN: 0488-6364).
 - 2025.03.04&emsp;A paper has entered the anonymous external review stage of the journal [*Review of Industrial Economics*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (ISSN：2095-7572).
 - 2024.12.01&emsp;Awarded the 2023–2024 **National Scholarship for Master’s Students** ([*The highest honorary award established by the state for graduate education in China*](https://www.gov.cn/fuwu/2014-06/11/content_2698545.htm)).
-  <br/><img src='/images/National Scholarship.png' style='width: 300px; height: auto; float: left; margin-right: 10px;'>
+  <div style="display: flex; align-items: center; gap: 15px;">
+    <img src='/images/National Scholarship.png' style='width: 300px; height: auto;'></div>
 
 📖 Eduation
 ------
