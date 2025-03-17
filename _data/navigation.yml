@@ -6,10 +6,10 @@
 
 main:
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   - title: "Misc"
-    url: /year-archive/
+    url: /misc/
     
   - title: "中文"
-    url: /markdown/
+    url: /dongjieou_cn/
