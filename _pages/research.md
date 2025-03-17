@@ -65,9 +65,14 @@ In Progress
   - Project Title: *Coordinating New Energy Development and National Energy Security—The Internal Logic and Development Path of Energy Structure Optimization in the Construction of the Domestic Circulation*
 
 ## Research Experiences
+- 2024&asmp;Shanghai University of International Business and Economics (SUIBE) - Young Econ Society (YES) “Economic Research Facing the Real World” Summer School
+- 2024&asmp;Summer School of Economics at the University of the Chinese Academy of Sciences
 
 ## Posters and Presentations
 
+- 2024.10&emsp;The 10th Zhang Peigang Award for Outstanding Achievements in Development Economics & the 7th Zhang Peigang Young Scholar Award in Development Economics Ceremony and the Forum on “*Building a High-Level Socialist Market Economy System to Promote Chinese Modernization*”, Wuhan, China
+- 2024.12&emsp;Chinese Association for World Economics Global Governance Political Economy Forum (2024) (Paper Accepted but not attended)
+- 2024.10&emsp;[The 14th Graduate Academic Innovation Forum of the School of Economics, Southwest University of Political Science and Law](https://es.swupl.edu.cn/xzjl/5fa34a3e7f324762862565d715fc1e7e.htm), Chongqing, China
 
 
 
