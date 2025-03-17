@@ -21,6 +21,7 @@ redirect_from:
   - Total Firm Productivity
   - Firm Innovation
   - Regional (Economic) Integration
+
 ## Publications and Working Papers
 ### 1.Publications
 In Progress
@@ -43,7 +44,16 @@ In Progress
 - 5.***How Does Urban Area Expansion Affect the Spatial Distribution of Urban Population: Is It a Pressure Release or Pressure Increase?***
   - Using the case of Chongqing’s 2020 urban area expansion reform, this study clarifies how urban area expansion influences the concentration of urban populations in central districts.
   - Reveal the key threshold constraints and driving roles of basic public services, such as basic healthcare and primary education for children, in migration decision-making.
+
 ## Research Projects
+- **2024 Chongqing Graduate Research Innovation Project**, CYS240276, **Principal Investigator**.
+  - Project Title: *The Stabilizing Effect of Industrial Structural Transformation and Upgrading on Industrial Fluctuations—With a Focus on the Optimization Path of Industrial Structure from the Perspective of Division of Labor*
+- **2024 Southwest University of Political Science and Law Student Research Innovation Project**, 2024XZXS-266, **Principal Investigator**.
+  - Project Title: *Distant Water Can Also Quench Near Thirst: Factor Flow Guarantee Mechanism and Urban Economic Resilience—Evidence from Water Rights Reform Pilot Programs*
+- **Southwest University of Political Science and Law 2023 University-Level Talent Project**, 2023-XZRCXM020, Participant.
+  - Project Title: *Research on Industrial Structure Optimization for High-Quality Development of the Chengdu-Chongqing Urban Agglomeration*
+- **2024 Southwest University of Political Science and Law, School of Economics, Graduate Research Innovation Project**, XZJJ202408, **Principal Investigator**.
+  - Project Title: *Coordinating New Energy Development and National Energy Security—The Internal Logic and Development Path of Energy Structure Optimization in the Construction of the Domestic Circulation*
 
 ## Research Experiences
 
