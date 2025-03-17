@@ -17,7 +17,6 @@ excerpt: |
     </tr>
   </table>
   <p><em>Mountains, Canyons, and Wilderness I ever explored.</em></p>
-
   <table>
     <tr>
       <td><img src="/images/liveworld1.jpg" width="250"></td>
