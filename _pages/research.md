@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Yue Wu’s Research Page"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -9,58 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-- *2023.09 ~ Present*&emsp;Master, School of Economics, Southwest University of Political Science and Law, Master of International Business
-  - Advisor: [Associate Professor Lijun Yang(杨丽君)](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283110.htm).
-- *2019.09 ~ 2023.07*&emsp;Undergraduate, School of Economics, Southwest University of Political Science and Law, International Economics and Trade (Bachelor of Economics)
-  - Undergraduate Thesis: International Trade and Market Segmentation Among Regions in China (*One of the 100 Outstanding Undergraduate Theses of the 2023 Cohort, Southwest University of Political Science and Law*)
-  - Thesis Advisor: [Ming’e Wu(吴明娥)](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283106.htm).
+## Research Interests
+- 1.Urban (Agglomeration) and Regional Economics:
+  - Urban Clusters
+  - Population Mobility
+  - Urban Coordinated Development
+- 2.Industrial Economics:
+  - Industrial Agglomeration
+  - Industrial Structural Transformation and Upgrading
+  - Industrial Chain Collaborative Cooperation
+- 3.International Trade:
+  - Total Firm Productivity
+  - Firm Innovation
+  - Regional (Economic) Integration
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Publications and Working Papers
+### 1.Publications
+In Progress
+### 2.Working Papers
+- 1.*The Belt and Road Initiative and Economic Growth of Inland Countries Along the Route: New Evidence from Machine Learning and Nighttime Light Data*, Currently in the ***Under Review (Peer Review)*** stage.
+  - Using satellite nighttime light data and the machine learning-based synthetic control method, this study evaluates the impact of the Belt and Road Initiative on economic growth in inland countries along the route. It further explores the heterogeneous effects of the initiative on economic growth between inland and non-inland countries and examines the “neighboring distance effect” on adjacent countries.
+## Research Projects
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Experiences
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Posters and Presentations
