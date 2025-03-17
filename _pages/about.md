@@ -27,14 +27,22 @@ Outside of my academic life, I am an aviation enthusiast and enjoys music, hikin
   - Undergraduate Thesis: International Trade and Market Segmentation Among Regions in China (*One of the 100 Outstanding Undergraduate Theses of the 2023 Cohort, Southwest University of Political Science and Law*)
   - Thesis Advisor: [Ming’e Wu(吴明娥)](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283106.htm).
 
+## 📆 Research Projects
+- 2024 Chongqing Graduate Research Innovation Project: *The Stabilizing Effect of Industrial Structural Transformation and Upgrading on Industrial Fluctuations—With a Focus on the Optimization Path of Industrial Structure from the Perspective of Division of Labor*, CYS240276, **Principal Investigator**.
+- 2024 Southwest University of Political Science and Law Student Research Innovation Project: *Distant Water Can Also Quench Near Thirst: Factor Flow Guarantee Mechanism and Urban Economic Resilience—Evidence from Water Rights Reform Pilot Programs*, 2024XZXS-266, **Principal Investigator**.
+- Southwest University of Political Science and Law 2023 University-Level Talent Project: *Research on Industrial Structure Optimization for High-Quality Development of the Chengdu-Chongqing Urban Agglomeration*, 2023-XZRCXM020, Participant.
+- 2024 Southwest University of Political Science and Law, School of Economics, Graduate Research Innovation Project: *Coordinating New Energy Development and National Energy Security—The Internal Logic and Development Path of Energy Structure Optimization in the Construction of the Domestic Circulation*, XZJJ202408, **Principal Investigator**.
+
 ## 🎖️ Honors and Awards
 - 2025.03.01&emsp;Merit Student of the 2023–2024 Academic Year
 - 2024.12.01&emsp;The 2023–2024 **National Scholarship for Graduate Students**
 - 2024.11.01&emsp;The 12th KeHui Graduate Innovation and Entrepreneurship Competition, Second Prize of the Entrepreneurship Practice Category
-- 2024.05.11&emsp;The “Boyu Cup” Belt and Road Initiative Project Case Competition, Third Prize
+- 2024.05.11&emsp;The “Boyu Cup” Belt and Road Initiative Project Case Competition, National Third Prize
+- 2023.11.30&emsp;2023 National College Business Elite Challenge - International Trade Competition (International Trade and Business Special Competition), National Second Prize
 
-## 📆 Posters and Presentations
+## 🧑‍🎨 Posters and Presentations
 - 2024.10&emsp;The 10th Zhang Peigang Award for Outstanding Achievements in Development Economics & the 7th Zhang Peigang Young Scholar Award in Development Economics Ceremony and the Forum on “Building a High-Level Socialist Market Economy System to Promote Chinese Modernization”, Wuhan, China
+- 2024.12&emsp;Chinese Association for World Economics Global Governance Political Economy Forum (2024) (Paper Accepted but not attended)
 - 2024.10&emsp;[The 14th Graduate Academic Innovation Forum of the School of Economics, Southwest University of Political Science and Law](https://es.swupl.edu.cn/xzjl/5fa34a3e7f324762862565d715fc1e7e.htm), Chongqing, China
 
 ## 💻 Skills
