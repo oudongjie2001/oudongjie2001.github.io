@@ -68,6 +68,8 @@ In Progress
 
 - 2024&emsp;[“Economic Research Towards the Real World” Summer School](https://www.suibe.edu.cn/2024/0801/c12538a173667/page.htm), Shanghai, China
   - Shanghai University of International Business and Economics (SUIBE) & Young Econ Society (YES)
+    <div style="display: flex; align-items: center; gap: 15px;">
+      <img src='/images/2024summarschoolshanghai.png' style='width: 300px; height: auto;'></div>
 - 2024&emsp;Summer School of Economics,China (online)
   - The University of the Chinese Academy of Sciences
 
