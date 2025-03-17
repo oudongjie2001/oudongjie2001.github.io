@@ -13,9 +13,9 @@ I am Dongjie Ou, a master’s student at the School of Economics, Southwest Univ
 I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking and trips. I grew up in Chongqing, a beautiful city in southwest China.
 
 ## 🔥 News
-- 2025.03.25&emsp;A paper has entered the anonymous external review stage of the journal [*World Economy Papers*](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml) (ISSN: 0488-6364).
-- 2025.03.04&emsp;A paper has entered the anonymous external review stage of the journal [*Review of Industrial Economics*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (ISSN：2095-7572).
-- 2024.12.01&emsp;🏆Awarded the 2023–2024 China **National Scholarship for Graduate Students** ([*The highest honorary award established by the state for graduate education in China*](https://www.gov.cn/fuwu/2014-06/11/content_2698545.htm)).
+- 2025.03.25&emsp;A paper has ***entered the Under Review (Peer Review) stage*** of the journal [***World Economy Papers***](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml) (ISSN: 0488-6364).
+- 2025.03.04&emsp;A paper has ***entered the Under Review (Peer Review) stage*** of the journal [***Review of Industrial Economics***](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (ISSN：2095-7572).
+- 2024.12.01&emsp;🏆Awarded the 2023–2024 China **National Scholarship for Graduate Students** ([***The highest honorary award established by the state for graduate education in China***](https://www.gov.cn/fuwu/2014-06/11/content_2698545.htm)).
   <div style="display: flex; align-items: center; gap: 15px;">
     <img src='/images/National Scholarship.png' style='width: 300px; height: auto;'></div>
 
