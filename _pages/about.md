@@ -53,10 +53,10 @@ Outside of my academic life, I am an aviation enthusiast and enjoys music, hikin
 - Languages: (Mandarin) Chinese, English
 
 ## 💬 Contact
-*Dongjie Ou (欧东杰)* <br>
-*School of Economics (经济学院)* <br>
-*Southwest University of Political Science and Law (西南政法大学)* <br>
-*301 Baosheng Avenue (宝圣大道301号)* <br>
-*Yubei District (渝北区)* <br>
-*Chongqing (重庆市)* <br>
-*China (中国)* <br>
+*Dongjie Ou* <br>
+*School of Economics* <br>
+*Southwest University of Political Science and Law* <br>
+*301 Baosheng Avenue* <br>
+*Yubei District* <br>
+*Chongqing* <br>
+*China* <br>
