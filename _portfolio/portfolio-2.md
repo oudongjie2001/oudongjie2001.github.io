@@ -16,7 +16,7 @@ excerpt: |
       <td><img src="/images/homecity_image8.png" width="250"></td>
     </tr>
   </table>
-  <p><em>my homecity Chongqing</em></p>
+  <p><em>Mountains, Canyons, and Wilderness I explore.</em></p>
   </div>
   <br/>
 collection: portfolio
