@@ -1,5 +1,5 @@
 ---
-permalink: /欧东杰的个人主页/
+permalink: /dongjieou_cn/
 title: "欧东杰的个人主页"
 author_profile: true
 redirect_from: 
