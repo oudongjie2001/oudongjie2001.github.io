@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Yue Wu’s Research Page"
+title: "Dongjie Ou’s Research Page"
 permalink: /research/
 author_profile: true
 redirect_from:
