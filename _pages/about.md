@@ -25,6 +25,7 @@ I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking 
 - *2019.09 ~ 2023.07*&emsp;Undergraduate, School of Economics, Southwest University of Political Science and Law, International Economics and Trade (Bachelor of Economics)
   - Undergraduate Thesis: International Trade and Market Segmentation Among Regions in China (*One of the 100 Outstanding Undergraduate Theses of the 2023 Cohort, Southwest University of Political Science and Law*)
   - Thesis Advisor: [Ming’e Wu(吴明娥)](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283106.htm).
+- *2016.09 ~ 2019.07*&emsp;Dazu High School, Chongqing
 
 ## 📆 Research Projects
 - **2024 Chongqing Graduate Research Innovation Project**, CYS240276, **Principal Investigator**.
