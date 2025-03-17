@@ -15,7 +15,7 @@ Outside of my academic life, I am an aviation enthusiast and enjoys music, hikin
 ------
 - 2025.03.25&emsp;A paper has entered the anonymous external review stage of the journal [*World Economy Papers*](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml) (ISSN: 0488-6364).
 - 2025.03.04&emsp;A paper has entered the anonymous external review stage of the journal [*Review of Industrial Economics*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (ISSN：2095-7572).
-- 2024.12.01&emsp;Awarded the 2023–2024 **National Scholarship for Master’s Students** ([*The highest honorary award established by the state for graduate education in China*](https://www.gov.cn/fuwu/2014-06/11/content_2698545.htm)).
+- 2024.12.01&emsp;Awarded the 2023–2024 **National Scholarship for Graduate Students** ([*The highest honorary award established by the state for graduate education in China*](https://www.gov.cn/fuwu/2014-06/11/content_2698545.htm)).
   <div style="display: flex; align-items: center; gap: 15px;">
     <img src='/images/National Scholarship.png' style='width: 300px; height: auto;'></div>
 
@@ -29,7 +29,8 @@ Outside of my academic life, I am an aviation enthusiast and enjoys music, hikin
 
 🎖️ Honors and Awards
 ------
-- 2024.12.01&emsp;2023–2024 **National Scholarship for Master’s Students**
+- 2025.03.01&emsp;Merit Student of the 2023–2024 Academic Year
+- 2024.12.01&emsp;The 2023–2024 **National Scholarship for Graduate Students**
 - 2024.11.01&emsp;The 12th KeHui Graduate Innovation and Entrepreneurship Competition, Second Prize of the Entrepreneurship Practice Category
 - 2024.05.11&emsp;The “Boyu Cup” Belt and Road Initiative Project Case Competition, Third Prize
 
