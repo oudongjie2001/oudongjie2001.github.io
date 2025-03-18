@@ -34,11 +34,14 @@ In Progress
   - Use satellite nighttime light data and the machine learning-based synthetic control method.
   - Evaluate the impact of the Belt and Road Initiative on economic growth in inland countries along the route.
   - Further explore the heterogeneous effects of the initiative on economic growth between inland and non-inland countries and examines the “neighboring distance effect” on adjacent countries.
- 
+  - *This paper has been selected for the Chinese Association for World Economics Global Governance Political Economy Forum (2024)*.
+
 - 2.**Dongjie Ou** and Lijun Yang, ***Industrial Structural Transformation and Industrial System Volatility: Exploring the Optimization Path of Industrial Structure from the Perspective of Division of Labor***, Currently in the ***Under Review (Peer Review)*** stage of the journal [*Review of Industrial Economics*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (ISSN：2095-7572).
   - From the perspective of division of labor, this study systematically analyzes the logic of industrial structural transformation and upgrading. It measures regional industrial structural transformation and upgrading based on two characteristics and two requirements.
   - Reveal the essence of industrial structure optimization through four key dimensions: rationalization, advancement, ecologicalization, and industrial integration.
   - Conduct a moderating effect analysis based on immobile production factors (land) and mobile production factors (labor, capital, data, and technology).
+  - *This paper has been selected for the 10th Zhang Peigang Award for Outstanding Achievements in Development Economics & the 7th Zhang Peigang Young Scholar Award in Development Economics Ceremony and the Forum on “Building a High-Level Socialist Market Economy System to Promote Chinese Modernization”*.
+
 
 - 3.Lijun Yang and **Dongjie Ou**, ***Seeking the “Optimal Distance” in High-Level Opening-Up: Bonded Zone Distance, Innovation Capability, and Firm Productivity***
   - Indicate that the innovation effect exhibits nonlinearity and spatial dependence
