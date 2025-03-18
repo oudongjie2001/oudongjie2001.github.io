@@ -55,7 +55,7 @@ In Progress
 
 ## Research Projects
 
-- **[2024 Chongqing Graduate Research Innovation Project](https://yjsy.swupl.edu.cn/ggtz/7b4e9bef253f40fb86b0124db9a8209b.html)**, CYS240276, **Principal Investigator**.
+- **[2024 Chongqing Graduate Research Innovation Project](https://yjsy.swupl.edu.cn/ggtz/f19991cf461c4665b20ed73bba533283.html)**, CYS240276, **Principal Investigator**.
   - Project Title: *The Stabilizing Effect of Industrial Structural Transformation and Upgrading on Industrial Fluctuations—With a Focus on the Optimization Path of Industrial Structure from the Perspective of Division of Labor*
 - **[2024 Southwest University of Political Science and Law Student Research Innovation Project](https://kyc.swupl.edu.cn/kyxm/xskyxm/8669eb1ea67147abbc6c737575674c56.htm)**, 2024XZXS-266, **Principal Investigator**.
   - Project Title: *Distant Water Can Also Quench Near Thirst: Factor Flow Guarantee Mechanism and Urban Economic Resilience—Evidence from Water Rights Reform Pilot Programs*
