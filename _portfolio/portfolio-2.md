@@ -16,7 +16,7 @@ excerpt: |
       <td><img src="/images/exworld8.jpg" width="250"></td>
     </tr>
   </table>
-  <p><em>Mountains, Canyons, and Wilderness I ever explored</em></p>
+  <p><em>Mountains, Canyons, and Wilderness I Ever Explored</em></p>
   <table>
     <tr>
       <td><img src="/images/liveworld1.jpg" width="250"></td>
@@ -31,7 +31,7 @@ excerpt: |
       <td><img src="/images/liveworld8.jpg" width="250"></td>
     </tr>
   </table>
-  <p><em>Cities and Places I have lived</em></p> 
+  <p><em>Cities and Places I Have Lived</em></p> 
   </div>
   <br/>
 collection: portfolio
