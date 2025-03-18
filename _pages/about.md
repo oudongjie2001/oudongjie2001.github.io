@@ -52,6 +52,7 @@ I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking 
 ## 💻 Skills
 - Programming: R, Python, stata
 - Languages: (Mandarin) Chinese, English
+- Econometric Models: DID (Difference-in-Differences), Instrumental Variable (IV) Method, Heckman Two-Stage Model, Threshold Model, Panel Fixed Effects Model, etc
 
 ## 💬 Contact
 *Dongjie Ou* <br>
