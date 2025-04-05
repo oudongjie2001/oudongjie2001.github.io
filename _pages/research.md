@@ -35,26 +35,32 @@ In Progress
   - Evaluate the impact of the Belt and Road Initiative on economic growth in inland countries along the route.
   - Further explore the heterogeneous effects of the initiative on economic growth between inland and non-inland countries and examines the “neighboring distance effect” on adjacent countries.
   - *This paper has been selected for the Chinese Association for World Economics Global Governance Political Economy Forum (2024)*.
+  - *This paper is accepted for presentation at the 11th Camphor Tree Economics Annual Conference (CEC)(2025)*.
 
-- 2.**Dongjie Ou** and Lijun Yang, ***Industrial Structural Transformation and Industrial System Volatility: Exploring the Optimization Path of Industrial Structure from the Perspective of Division of Labor***, Currently in the ***Under Review (Peer Review)*** stage of the journal [*Review of Industrial Economics*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (ISSN：2095-7572).
+- 2.**Dongjie Ou** and Lijun Yang, ***Industrial Structural Transformation and Industrial System Volatility: Exploring the Optimization Path of Industrial Structure from the Perspective of Division of Labor***, Currently in the ***Revision Stage for Authors (After Peer Review)*** stage of the journal [*Review of Industrial Economics*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (ISSN：2095-7572).
   - From the perspective of division of labor, this study systematically analyzes the logic of industrial structural transformation and upgrading. It measures regional industrial structural transformation and upgrading based on two characteristics and two requirements.
   - Reveal the essence of industrial structure optimization through four key dimensions: rationalization, advancement, ecologicalization, and industrial integration.
   - Conduct a moderating effect analysis based on immobile production factors (land) and mobile production factors (labor, capital, data, and technology).
   - *This paper has been selected for the 10th Zhang Peigang Award for Outstanding Achievements in Development Economics & the 7th Zhang Peigang Young Scholar Award in Development Economics Ceremony and the Forum on “Building a High-Level Socialist Market Economy System to Promote Chinese Modernization”*.
 
-
-- 3.Lijun Yang and **Dongjie Ou**, ***Seeking the “Optimal Distance” in High-Level Opening-Up: Bonded Zone Distance, Innovation Capability, and Firm Productivity***
+- 3.Lijun Yang and **Dongjie Ou**, ***Seeking the “Optimal Distance” in High-Level Opening-Up: Bonded Zone Distance, Innovation Capability, and Firm Productivity***.
   - Indicate that the innovation effect exhibits nonlinearity and spatial dependence
   - The distance between a firm’s location and the bonded zone significantly influences the effectiveness of transforming innovation outcomes into total factor productivity (TFP).
   - To fully unlock the potential of innovation in enhancing firm productivity, it is essential to be within the radiation range of a relatively optimal key economic region.
 
-- 4.Lijun Yang and **Dongjie Ou**, ***Distant Water Can Also Quench Near Thirst: The Mechanism of Factor Flow Protection and Urban Economic Resilience – Evidence from the Water Rights Reform Pilot***
+- 4.Lijun Yang and **Dongjie Ou**, ***Distant Water Can Also Quench Near Thirst: The Mechanism of Factor Flow Protection and Urban Economic Resilience – Evidence from the Water Rights Reform Pilot***.
   - Taking the water rights reform pilot policy as an example, this study uses panel data from 285 Chinese cities and employs a difference-in-differences method to investigate whether the mechanism of factor flow protection can enhance urban economic resilience.
   - Note the heterogeneity of the water rights pilot, including differences in pilot task focus, city size, and socioeconomic characteristics, and explores the boundaries of the policy’s effects.
 
-- 5.Lijun Yang and **Dongjie Ou**, ***How Does Urban Area Expansion Affect the Spatial Distribution of Urban Population: Is It a Pressure Release or Pressure Increase?***
+- 5.Lijun Yang and **Dongjie Ou**, ***How Does Urban Area Expansion Affect the Spatial Distribution of Urban Population: Is It a Pressure Release or Pressure Increase?***.
   - Using the case of Chongqing’s 2020 urban area expansion reform, this study clarifies how urban area expansion influences the concentration of urban populations in central districts.
   - Reveal the key threshold constraints and driving roles of basic public services, such as basic healthcare and primary education for children, in migration decision-making.
+
+- 6.Lijun Yang and **Dongjie Ou**, ***How Does Trade Policy Uncertainty Affect Firms’ Total Factor Productivity? A Perspective of Mechanisms and Firm-Level Self-Adjustment Strategies***.
+  - The research aims to explore pathways for achieving firms’ “resilience transition” and enhancing the quality and stability of national economic growth.
+  - Focusing on the impact of trade policy uncertainty on firms’ total factor productivity under regional weighting, this study systematically examines its overall effects and underlying mechanisms.
+  - It proposes strategies for firms to proactively respond through the resilience effect of innovation and the endogenous stabilizing effect of internal governance and equity structure optimization.
+  
 
 ## Research Projects
 
@@ -78,10 +84,7 @@ In Progress
 
 ## Posters and Presentations
 
+- 2025.04&emsp;Southwest University of Political Science and Law School of Economics “Yuxiu Economic Review” Second Issue Release Conference and [Economics Discipline Undergraduate and Graduate Academic Growth Forum](https://mp.weixin.qq.com/s/rjAJYPOdfNiv8sYkN7FrtQ), Chongqing, China.
 - 2024.10&emsp;[**The 10th Zhang Peigang Award for Outstanding Achievements in Development Economics & the 7th Zhang Peigang Young Scholar Award in Development Economics Ceremony and the Forum on “*Building a High-Level Socialist Market Economy System to Promote Chinese Modernization*”**](http://pkcjjh.hust.edu.cn/info/1068/2780.htm), Wuhan, China
 - 2024.12&emsp;*Chinese Association for World Economics Global Governance Political Economy Forum (2024)* (Paper Accepted but not attended)
 - 2024.10&emsp;[*The 14th Graduate Academic Innovation Forum of the School of Economics, Southwest University of Political Science and Law*](https://es.swupl.edu.cn/xzjl/5fa34a3e7f324762862565d715fc1e7e.htm), Chongqing, China
-
-
-
-
