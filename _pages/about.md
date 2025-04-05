@@ -21,10 +21,10 @@ I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking 
     <img src='/images/National Scholarship.png' style='width: 300px; height: auto;'></div>
 
 ## 📖 Eduation
-- *2023.09 ~ Present*&emsp;Master, School of Economics, Southwest University of Political Science and Law, Master of International Business
+- *2023.09 ~ Present*&emsp;Master, School of Economics, Southwest University of Political Science and Law, Master of International Business(MIB)
   - Advisor: [Associate Professor Lijun Yang(杨丽君)](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283110.htm).
 - *2019.09 ~ 2023.07*&emsp;Undergraduate, School of Economics, Southwest University of Political Science and Law, International Economics and Trade (Bachelor of Economics)
-  - Undergraduate Thesis: International Trade and Market Segmentation Among Regions in China (*One of the 100 Outstanding Undergraduate Theses of the 2023 Cohort, Southwest University of Political Science and Law*)
+  - Undergraduate Thesis: ***International Trade and Market Segmentation Among Regions in China*** (*One of the 100 Outstanding Undergraduate Theses of the 2023 Cohort, Southwest University of Political Science and Law*)
   - Thesis Advisor: [Ming’e Wu(吴明娥)](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283106.htm).
 - *2016.09 ~ 2019.07*&emsp;Dazu High School, Chongqing
 
@@ -46,9 +46,10 @@ I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking 
 - 2023.11.30&emsp;2023 National College Business Elite Challenge - International Trade Competition (International Trade and Business Special Competition), National Second Prize
 
 ## 🧑‍🎨 Posters and Presentations
-- 2024.10&emsp;[The 10th Zhang Peigang Award for Outstanding Achievements in Development Economics & the 7th Zhang Peigang Young Scholar Award in Development Economics Ceremony and the Forum on “*Building a High-Level Socialist Market Economy System to Promote Chinese Modernization*”](http://pkcjjh.hust.edu.cn/info/1068/2780.htm), Wuhan, China
-- 2024.12&emsp;Chinese Association for World Economics Global Governance Political Economy Forum (2024) (Paper Accepted but not attended)
-- 2024.10&emsp;[The 14th Graduate Academic Innovation Forum of the School of Economics, Southwest University of Political Science and Law](https://es.swupl.edu.cn/xzjl/5fa34a3e7f324762862565d715fc1e7e.htm), Chongqing, China
+- 2025.04&emsp;Southwest University of Political Science and Law School of Economics “Yuxiu Economic Review” Second Issue Release Conference and [Economics Discipline Undergraduate and Graduate Academic Growth Forum](https://mp.weixin.qq.com/s/rjAJYPOdfNiv8sYkN7FrtQ), Chongqing, China.
+- 2024.10&emsp;[The 10th Zhang Peigang Award for Outstanding Achievements in Development Economics & the 7th Zhang Peigang Young Scholar Award in Development Economics Ceremony and the Forum on “*Building a High-Level Socialist Market Economy System to Promote Chinese Modernization*”](http://pkcjjh.hust.edu.cn/info/1068/2780.htm), Wuhan, China.
+- 2024.12&emsp;Chinese Association for World Economics Global Governance Political Economy Forum (2024) (Paper Accepted but not attended).
+- 2024.10&emsp;[The 14th Graduate Academic Innovation Forum of the School of Economics, Southwest University of Political Science and Law](https://es.swupl.edu.cn/xzjl/5fa34a3e7f324762862565d715fc1e7e.htm), Chongqing, China.
 
 ## 💻 Skills
 - Programming: R, Python, stata
