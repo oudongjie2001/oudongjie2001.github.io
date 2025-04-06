@@ -30,14 +30,14 @@ In Progress
 
 ### 2.Working Papers
 
-- 1.Lijun Yang and **Dongjie Ou**, ***The Belt and Road Initiative and Economic Growth of Inland Countries Along the Route: New Evidence from Machine Learning and Nighttime Light Data***, Currently in the ***Under Review (Peer Review)*** stage of the journal [*World Economy Papers*](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml) (ISSN: 0488-6364).
+- 1.Lijun Yang and **Dongjie Ou**, ***The Belt and Road Initiative and Economic Growth of Inland Countries Along the Route: New Evidence from Machine Learning and Nighttime Light Data***, Currently in the ***Under Review (Peer Review)*** stage of the journal [*World Economy Papers*](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml) (***CSSCI***).
   - Use satellite nighttime light data and the machine learning-based synthetic control method.
   - Evaluate the impact of the Belt and Road Initiative on economic growth in inland countries along the route.
   - Further explore the heterogeneous effects of the initiative on economic growth between inland and non-inland countries and examines the “neighboring distance effect” on adjacent countries.
   - *This paper has been selected for the Chinese Association for World Economics Global Governance Political Economy Forum (2024)*.
   - *This paper is accepted for presentation at the 11th Camphor Tree Economics Annual Conference (CEC)(2025)*.
 
-- 2.**Dongjie Ou** and Lijun Yang, ***Industrial Structural Transformation and Industrial System Volatility: Exploring the Optimization Path of Industrial Structure from the Perspective of Division of Labor***, Currently in the ***Revision Stage for Authors (After Peer Review)*** stage of the journal [*Review of Industrial Economics*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (ISSN：2095-7572).
+- 2.**Dongjie Ou** and Lijun Yang, ***Industrial Structural Transformation and Industrial System Volatility: Exploring the Optimization Path of Industrial Structure from the Perspective of Division of Labor***, Currently in the ***Revision Stage for Authors (After Peer Review)*** stage of the journal [*Review of Industrial Economics*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (***CSSCI扩展版***).
   - From the perspective of division of labor, this study systematically analyzes the logic of industrial structural transformation and upgrading. It measures regional industrial structural transformation and upgrading based on two characteristics and two requirements.
   - Reveal the essence of industrial structure optimization through four key dimensions: rationalization, advancement, ecologicalization, and industrial integration.
   - Conduct a moderating effect analysis based on immobile production factors (land) and mobile production factors (labor, capital, data, and technology).
@@ -52,7 +52,7 @@ In Progress
   - Taking the water rights reform pilot policy as an example, this study uses panel data from 285 Chinese cities and employs a difference-in-differences method to investigate whether the mechanism of factor flow protection can enhance urban economic resilience.
   - Note the heterogeneity of the water rights pilot, including differences in pilot task focus, city size, and socioeconomic characteristics, and explores the boundaries of the policy’s effects.
 
-- 5.Lijun Yang and **Dongjie Ou**, ***How Does Urban Area Expansion Affect the Spatial Distribution of Urban Population: Is It a Pressure Release or Pressure Increase?***.
+- 5.Lijun Yang and **Dongjie Ou**, ***How Does Urban Area Expansion Affect the Spatial Distribution of Urban Population: Is It a Pressure Release or Pressure Increase?***, , Currently in the ***Under Review*** stage of the journal [***MACROECONOMIC DYNAMICS***](https://www.cambridge.org/core/journals/macroeconomic-dynamics) (***SSCI***)
   - Using the case of Chongqing’s 2020 urban area expansion reform, this study clarifies how urban area expansion influences the concentration of urban populations in central districts.
   - Reveal the key threshold constraints and driving roles of basic public services, such as basic healthcare and primary education for children, in migration decision-making.
 
