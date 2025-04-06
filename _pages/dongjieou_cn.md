@@ -13,10 +13,11 @@ redirect_from:
 我是一名乐观的理想主义者，在学术生活之外，我喜欢音乐、徒步和旅行。我在重庆长大，这是一座美丽的西南城市。
 
 ## 🔥 近期动态
+- 2025.04.06&emsp;一篇论文进入期刊[***MACROECONOMIC DYNAMICS***](https://www.cambridge.org/core/journals/macroeconomic-dynamics)(*SSCI*)Under Review阶段
 - 2025.04.03&emsp;论文入选[*第十一届香樟经济学年会（CEC）*](https://mp.weixin.qq.com/s/j_BLWAedV5WkCToqnIyCRQ)
 - 2025.03.25&emsp;一篇论文进入期刊[*《世界经济文汇》*](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml)(CSSCI)匿名外审阶段
 - 2025.03.04&emsp;一篇论文进入期刊[*《产业经济评论》*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch)(CSSCI(扩展版))匿名外审阶段
-- 2024.12.01&emsp;🏆获得2023-2024学年**研究生国家奖学金** ([*中国研究生教育阶段国家设立的最高荣誉奖项*](https://www.gov.cn/fuwu/2014-06/11/content_2698545.htm)).
+- 2024.12.01&emsp;🏆获得2023-2024学年**研究生国家奖学金** ([*中国研究生教育阶段国家设立的最高荣誉奖项*](https://www.gov.cn/fuwu/2014-06/11/content_2698545.htm))
   <div style="display: flex; align-items: center; gap: 15px;">
     <img src='/images/National Scholarship.png' style='width: 300px; height: auto;'></div>
 
