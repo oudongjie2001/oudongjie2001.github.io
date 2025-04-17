@@ -13,10 +13,10 @@ I am Dongjie Ou, a master’s student at the School of Economics, Southwest Univ
 I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking and trips. I grew up in Chongqing, a beautiful city in southwest China.
 
 ## 🔥 News
-- 2025.04.06&emsp;A paper has ***entered the Under Review stage*** of the journal [***MACROECONOMIC DYNAMICS***](https://www.cambridge.org/core/journals/macroeconomic-dynamics) (*SSCI*, ISSN: 1365-1005 (Print), 1469-8056 (Online))
+- 2025.04.06&emsp;A paper has ***entered the Under Review stage*** of the journal [***MACROECONOMIC DYNAMICS***](https://www.cambridge.org/core/journals/macroeconomic-dynamics) (*SSCI*)
 - 2025.04.03&emsp;A paper is accepted for presentation at [***the 11th Camphor Tree Economics Annual Conference (CEC)***](https://mp.weixin.qq.com/s/j_BLWAedV5WkCToqnIyCRQ).
-- 2025.03.25&emsp;A paper has ***entered the Under Review (Peer Review) stage*** of the journal [***World Economy Papers***](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml) (*CSSCI*, ISSN: 0488-6364).
-- 2025.03.04&emsp;A paper has ***entered the Under Review (Peer Review) stage*** of the journal [***Review of Industrial Economics***](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (*CSSCI扩展版*, ISSN：2095-7572).
+- 2025.03.25&emsp;A paper has ***entered the Under Review (Peer Review) stage*** of the journal [***World Economy Papers***](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml) (*CSSCI*).
+- 2025.03.04&emsp;A paper has ***entered the Under Review (Peer Review) stage*** of the journal [***Review of Industrial Economics***](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (*CSSCI扩展版*).
 - 2024.12.01&emsp;🏆Awarded the 2023–2024 China **National Scholarship for Graduate Students** ([***The highest honorary award established by the state for graduate education in China***](https://www.gov.cn/fuwu/2014-06/11/content_2698545.htm)).
   <div style="display: flex; align-items: center; gap: 15px;">
     <img src='/images/National Scholarship.png' style='width: 300px; height: auto;'></div>
