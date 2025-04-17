@@ -52,7 +52,7 @@ In Progress
   - Taking the water rights reform pilot policy as an example, this study uses panel data from 285 Chinese cities and employs a difference-in-differences method to investigate whether the mechanism of factor flow protection can enhance urban economic resilience.
   - Note the heterogeneity of the water rights pilot, including differences in pilot task focus, city size, and socioeconomic characteristics, and explores the boundaries of the policy’s effects.
 
-- 5.**Dongjie Ou**, ***How Does Urban Area Expansion Affect the Spatial Distribution of Urban Population: Is It a Pressure Release or Pressure Increase?.
+- 5.**Dongjie Ou**, ***How Does Urban Area Expansion Affect the Spatial Distribution of Urban Population: Is It a Pressure Release or Pressure Increase?***.
   - Using the case of Chongqing’s 2020 urban area expansion reform, this study clarifies how urban area expansion influences the concentration of urban populations in central districts.
   - Reveal the key threshold constraints and driving roles of basic public services, such as basic healthcare and primary education for children, in migration decision-making.
 
