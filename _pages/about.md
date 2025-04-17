@@ -47,6 +47,7 @@ I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking 
 - 2023.11.30&emsp;2023 National College Business Elite Challenge - International Trade Competition (International Trade and Business Special Competition), National Second Prize
 
 ## 🧑‍🎨 Posters and Presentations
+- 2025.04&emsp;[*the 11th Camphor Tree Economics Annual Conference (CEC)*](https://mp.weixin.qq.com/s/8U7o0N42tT1zeR6OECkGDA), Wuhan, China.
 - 2025.04&emsp;Southwest University of Political Science and Law School of Economics “Yuxiu Economic Review” Second Issue Release Conference and [Economics Discipline Undergraduate and Graduate Academic Growth Forum](https://mp.weixin.qq.com/s/rjAJYPOdfNiv8sYkN7FrtQ), Chongqing, China.
 - 2024.10&emsp;[The 10th Zhang Peigang Award for Outstanding Achievements in Development Economics & the 7th Zhang Peigang Young Scholar Award in Development Economics Ceremony and the Forum on “*Building a High-Level Socialist Market Economy System to Promote Chinese Modernization*”](http://pkcjjh.hust.edu.cn/info/1068/2780.htm), Wuhan, China.
 - 2024.12&emsp;Chinese Association for World Economics Global Governance Political Economy Forum (2024) (Paper Accepted but not attended).
