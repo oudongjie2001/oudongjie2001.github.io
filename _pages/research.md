@@ -52,7 +52,7 @@ In Progress
   - Taking the water rights reform pilot policy as an example, this study uses panel data from 285 Chinese cities and employs a difference-in-differences method to investigate whether the mechanism of factor flow protection can enhance urban economic resilience.
   - Note the heterogeneity of the water rights pilot, including differences in pilot task focus, city size, and socioeconomic characteristics, and explores the boundaries of the policy’s effects.
 
-- 5.**Dongjie Ou**, ***How Does Urban Area Expansion Affect the Spatial Distribution of Urban Population: Is It a Pressure Release or Pressure Increase?***, Currently in the ***Under Review*** stage of the journal [***MACROECONOMIC DYNAMICS***](https://www.cambridge.org/core/journals/macroeconomic-dynamics) (***SSCI***)
+- 5.**Dongjie Ou**, ***How Does Urban Area Expansion Affect the Spatial Distribution of Urban Population: Is It a Pressure Release or Pressure Increase?.
   - Using the case of Chongqing’s 2020 urban area expansion reform, this study clarifies how urban area expansion influences the concentration of urban populations in central districts.
   - Reveal the key threshold constraints and driving roles of basic public services, such as basic healthcare and primary education for children, in migration decision-making.
 
@@ -83,7 +83,7 @@ In Progress
   - *The University of the Chinese Academy of Sciences*
 
 ## Posters and Presentations
-
+- 2025.04&emsp;[***the 11th Camphor Tree Economics Annual Conference (CEC)***](https://mp.weixin.qq.com/s/8U7o0N42tT1zeR6OECkGDA), Wuhan, China.
 - 2025.04&emsp;Southwest University of Political Science and Law School of Economics “Yuxiu Economic Review” Second Issue Release Conference and [Economics Discipline Undergraduate and Graduate Academic Growth Forum](https://mp.weixin.qq.com/s/rjAJYPOdfNiv8sYkN7FrtQ), Chongqing, China.
 - 2024.10&emsp;[**The 10th Zhang Peigang Award for Outstanding Achievements in Development Economics & the 7th Zhang Peigang Young Scholar Award in Development Economics Ceremony and the Forum on “*Building a High-Level Socialist Market Economy System to Promote Chinese Modernization*”**](http://pkcjjh.hust.edu.cn/info/1068/2780.htm), Wuhan, China
 - 2024.12&emsp;*Chinese Association for World Economics Global Governance Political Economy Forum (2024)* (Paper Accepted but not attended)
