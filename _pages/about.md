@@ -13,7 +13,9 @@ I am Dongjie Ou, a master’s student at the School of Economics, Southwest Univ
 I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking and trips. I grew up in Chongqing, a beautiful city in southwest China.
 
 ## 🔥 News
-- 2025.04.06&emsp;A paper has ***entered the Under Review stage*** of the journal [***MACROECONOMIC DYNAMICS***](https://www.cambridge.org/core/journals/macroeconomic-dynamics) (*SSCI*)
+- 2025.04.23&emsp;A paper has been accepted for presentation at ***the 2025 Annual Conference of the Regional Science Association of China and the Academic Symposium on High-Quality Regional Development in the New Era***.
+- 2025.04.20&emsp;A paper has been accepted for presentation at ***the 24th National Conference of the University Coordination Group for International Trade and the 2025 Forum on the Development of China’s International Trade Discipline***.
+- 2025.04.06&emsp;A paper has ***entered the Under Review stage*** of the journal [***MACROECONOMIC DYNAMICS***](https://www.cambridge.org/core/journals/macroeconomic-dynamics) (*SSCI*).
 - 2025.04.03&emsp;A paper is accepted for presentation at [***the 11th Camphor Tree Economics Annual Conference (CEC)***](https://mp.weixin.qq.com/s/j_BLWAedV5WkCToqnIyCRQ).
 - 2025.03.25&emsp;A paper has ***entered the Under Review (Peer Review) stage*** of the journal [***World Economy Papers***](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml) (*CSSCI*).
 - 2025.03.04&emsp;A paper has ***entered the Under Review (Peer Review) stage*** of the journal [***Review of Industrial Economics***](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (*CSSCI扩展版*).
