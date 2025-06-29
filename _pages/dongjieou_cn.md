@@ -14,7 +14,7 @@ redirect_from:
 
 ## 🔥 近期动态
 - 2025.06.28&emsp;立格法律经济学联盟学术年会汇报
-- 2025.06.16&emsp;一篇论文被期刊[*《世界经济文汇》*](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml)(CSSCI)拟录用
+- 2025.06.16&emsp;一篇论文被期刊[***《世界经济文汇》***](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml)(**_CSSCI_**)录用
 - 2025.04.23&emsp;一篇论文被*2025年中国区域经济学会年会暨新时期区域高质量发展学术研讨会*录用
 - 2025.04.20&emsp;一篇论文被*第二十四届全国高校国际贸易学科协作组会议暨2025年中国国际贸易学科发展论坛*录用
 - 2025.04.06&emsp;一篇论文进入期刊[***MACROECONOMIC DYNAMICS***](https://www.cambridge.org/core/journals/macroeconomic-dynamics)(*SSCI*)Under Review阶段
