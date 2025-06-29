@@ -76,3 +76,6 @@ I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking 
 *Yubei District* <br>
 *Chongqing* <br>
 *China* <br>
+E-mail: 2543092274@qq.com <br>
+Telephone: 15223415349 <br>
+Wechat: 15223415349 <br>
