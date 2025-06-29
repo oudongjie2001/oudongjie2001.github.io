@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 ## About Dongjie Ou(欧东杰)
-I am Dongjie Ou, a master’s student at the School of Economics, Southwest University of Political Science and Law.  My advisor is [Associate Professor Lijun Yang(杨丽君)](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283110.htm). My research interests lie in **urban (agglomeration) and regional economics, industrial economics, and international trade**. My work involves both reduced-form and structural analyses.
+I am Dongjie Ou, a master’s student at the School of Economics, Southwest University of Political Science and Law.  My advisor is [Associate Professor Lijun Yang(杨丽君)](https://es.swupl.edu.cn/szdw/zrjs/ax/x1gjjjymyx/283110.htm). My research interests lie in **urban (agglomeration) and regional economics, industrial economics, and international trade**. My work involves both reduced-form and structural analyses. My future research will focus on **_the spatial political economy from the perspective of “Structure–Factors–Openness”: exploring the coupling mechanisms among structural adjustment, factor mobility, and institutional opening-up_**.
 
-I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking and trips. I grew up in Chongqing, a beautiful city in southwest China.
+I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking and trips. I grew up in Dazu District, Chongqing, located in Southwest China. It is a beautiful city.
 
 ## 🔥 News
 - 2025.06.28&emsp;Presentation at the Annual Conference of the Lige Law and Economics Association.
