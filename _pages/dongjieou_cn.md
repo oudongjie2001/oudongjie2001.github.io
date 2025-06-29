@@ -21,7 +21,7 @@ redirect_from:
 - 2025.04.06&emsp;一篇论文进入期刊[***MACROECONOMIC DYNAMICS***](https://www.cambridge.org/core/journals/macroeconomic-dynamics)(*SSCI*)Under Review阶段
 - 2025.03.04&emsp;一篇论文进入期刊[*《产业经济评论》*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch)(CSSCI(扩展版))匿名外审阶段
 - 2024.12.01&emsp;获得***2023-2024学年研究生国家奖学金***🏆<br>
-    <img src='/images/National Scholarship.png' style='width: 300px; height: auto;'></div>
+    <img src='/images/National Scholarship.png' style='width: 300px; height: auto;'>
 
 ## 💡 研究兴趣
 - 1.城市（群）与区域经济:
