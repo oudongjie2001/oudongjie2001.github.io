@@ -47,12 +47,12 @@ I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking 
   - Project Title: *Coordinating New Energy Development and National Energy Security—The Internal Logic and Development Path of Energy Structure Optimization in the Construction of the Domestic Circulation*
 
 ## 🎖️ Honors and Awards
-- 2025.06.18&emsp;the 15th MathorCup Mathematical Modeling Challenge, 2025, First Prize (Regional Level, Recommended for National Award)
-- 2025.03.01&emsp;Merit Student of the 2023–2024 Academic Year
-- 2024.12.01&emsp;The 2023–2024 China **National Scholarship for Graduate Students**
-- 2024.11.01&emsp;The 12th KeHui Graduate Innovation and Entrepreneurship Competition, Second Prize of the Entrepreneurship Practice Category
-- 2024.05.11&emsp;The “Boyu Cup” Belt and Road Initiative Project Case Competition, National Third Prize
-- 2023.11.30&emsp;2023 National College Business Elite Challenge - International Trade Competition (International Trade and Business Special Competition), National Second Prize
+- 2025.06&emsp;the 15th MathorCup Mathematical Modeling Challenge, 2025, National First Prize
+- 2025.03&emsp;Merit Student of the 2023–2024 Academic Year
+- 2024.12&emsp;The 2023–2024 China **National Scholarship for Graduate Students**
+- 2024.11&emsp;The 12th KeHui Graduate Innovation and Entrepreneurship Competition, Second Prize of the Entrepreneurship Practice Category
+- 2024.05&emsp;The “Boyu Cup” Belt and Road Initiative Project Case Competition, National Third Prize
+- 2023.11&emsp;2023 National College Business Elite Challenge - International Trade Competition (International Trade and Business Special Competition), National Second Prize
 
 ## 🧑‍🎨 Posters and Presentations
 - 2025.06&emsp;Annual Conference of the Lige Law and Economics Association, Southwest University of Political Science and Law
