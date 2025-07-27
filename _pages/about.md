@@ -19,7 +19,7 @@ I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking 
 - 2025.05.10&emsp;Presentation at 24th National University International Trade Discipline Collaboration Conference & 2025 China Forum on the Development of International Trade Discipline
 - 2025.04.23&emsp;A paper has been accepted for presentation at ***the 2025 Annual Conference of the Regional Science Association of China and the Academic Symposium on High-Quality Regional Development in the New Era***.
 - 2025.04.12&emsp;Presentation at the [***the 11th Camphor Tree Economics Annual Conference (CEC)***](https://mp.weixin.qq.com/s/j_BLWAedV5WkCToqnIyCRQ).
-- 2025.04.06&emsp;A paper has ***entered the Under Review stage*** of the journal ***MACROECONOMIC DYNAMICS*** (*SSCI*).
+- 2025.04.06&emsp;A paper has entered the *Under Review* stage of the journal *MACROECONOMIC DYNAMICS* (*SSCI*) (The result is out: Rejected)
 - 2025.03.04&emsp;A paper has ***entered the Under Review (Peer Review) stage*** of the journal [***Review of Industrial Economics***](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (*CSSCI扩展版*).
 - 2024.12.01&emsp;Awarded the ***2023–2024 China National Scholarship for Graduate Students*** ([***The highest honorary award established by the state for graduate education in China***](https://www.gov.cn/fuwu/2014-06/11/content_2698545.htm))🏆.
   <div style="display: flex; align-items: center; gap: 15px;">
