@@ -34,29 +34,34 @@ redirect_from:
   - Paper accepted at *the 10th Zhang Peigang Award for Outstanding Achievements in Development Economics & the 7th Zhang Peigang Young Scholar Award in Development Economics Ceremony and the Forum on “Building a High-Level Socialist Market Economy System to Promote Chinese Modernization”*, organized by Huazhong University of Science and Technology.
   - Supported by the Chongqing Municipal Education Commission – Chongqing Postgraduate Scientific Research and Innovation Project (CYS240276).
 
-- 2.Lijun Yang and **Dongjie Ou**, ***How Does Trade Policy Uncertainty Affect Firms’ Total Factor Productivity? A Perspective of Mechanisms and Firm-Level Self-Adjustment Strategies***.
+- 2.Lijun Yang and **Dongjie Ou**, ***How Does Trade Policy Uncertainty Affect Firms’ Total Factor Productivity? A Perspective of Mechanisms and Firm-Level Self-Adjustment Strategies***, Currently in the ***Under Review*** stage of the journal ***Review of Development Economics*** (*SSCI*).
   - The research aims to explore pathways for achieving firms’ “resilience transition” and enhancing the quality and stability of national economic growth.
   - Focusing on the impact of trade policy uncertainty on firms’ total factor productivity under regional weighting, this study systematically examines its overall effects and underlying mechanisms.
   - It proposes strategies for firms to proactively respond through the resilience effect of innovation and the endogenous stabilizing effect of internal governance and equity structure optimization.
   - Paper accepted at *the 24th National University International Trade Discipline Collaboration Conference & 2025 China Forum on the Development of International Trade Discipline*, organized by the National University International Trade Discipline Collaboration Group and Southwestern University of Finance and Economics.
   - Paper accepted at *the 2025 Annual Conference of the Lige Law and Economics Association*, organized by the Lige Law and Economics Association and Southwest University of Political Science and Law.
-   
-- 3.Lijun Yang and **Dongjie Ou**, ***Seeking the “Optimal Distance” in High-Level Opening-Up: Bonded Zone Distance, Innovation Capability, and Firm Productivity***.
-  - Indicate that the innovation effect exhibits nonlinearity and spatial dependence
+
+- 3.Lijun Yang and **Dongjie Ou**, ***Digital Dividend Allocation, Public Digital Infrastructure, and Corporate Independent Innovation: Evidence from China’s Big Data Comprehensive Pilot Zones***
+  - Taking the establishment of national big data pilot zones as a quasi-natural experiment, this study evaluates the impact of public digital infrastructure development on firms’ independent innovation.
+  - From the perspective of institutional supply, it reveals the mechanism of enhanced capital allocation capacity and the forcing effect of peer competition pressure.
+  - Study identifies a significant technological threshold effect of public digital infrastructure policy dividends at the firm level.
+
+- 4.Lijun Yang and **Dongjie Ou**, ***Seeking the “Optimal Distance” in High-Level Opening-Up: Bonded Zone Distance, Innovation Capability, and Firm Productivity***.
+  - Indicate that the innovation effect exhibits nonlinearity and spatial dependence.
   - The distance between a firm’s location and the bonded zone significantly influences the effectiveness of transforming innovation outcomes into total factor productivity (TFP).
   - To fully unlock the potential of innovation in enhancing firm productivity, it is essential to be within the radiation range of a relatively optimal key economic region.
   - Paper accepted at *the 2025 Annual Conference of the Regional Science Association of China & Academic Symposium on High-Quality Regional Development in the New Era*, organized by the Regional Science Association of China and Jinan University.
 
-- 4.**Dongjie Ou** and Lijun Yang, ***Regional Resilience under the Shadow of De-globalization: Trade Policy Uncertainty, RCEP Rules, and the Re-division of Supply Chains***.
+- 5.**Dongjie Ou** and Lijun Yang, ***Regional Resilience under the Shadow of De-globalization: Trade Policy Uncertainty, RCEP Rules, and the Re-division of Supply Chains***.
   - Analyzes the disruptive mechanisms through which policy uncertainty affects supply chain configuration pathways.
   - Constructs a “Risk–Institution–Division of Labor” triadic interaction framework to systematically explain how RCEP rules, via institutional certainty, cost discounting, and resilience externalities, effectively reduce the premium of policy uncertainty, enhance the stickiness and elasticity of regional value chains, and thereby promote the re-division of supply chains.
 
-- 5.Lijun Yang and **Dongjie Ou**, ***Distant Water Can Also Quench Near Thirst: The Mechanism of Factor Flow Protection and Urban Economic Resilience – Evidence from the Water Rights Reform Pilot***.
+- 6.Lijun Yang and **Dongjie Ou**, ***Distant Water Can Also Quench Near Thirst: The Mechanism of Factor Flow Protection and Urban Economic Resilience – Evidence from the Water Rights Reform Pilot***.
   - Taking the water rights reform pilot policy as an example, this study uses panel data from 285 Chinese cities and employs a difference-in-differences method to investigate whether the mechanism of factor flow protection can enhance urban economic resilience.
   - Note the heterogeneity of the water rights pilot, including differences in pilot task focus, city size, and socioeconomic characteristics, and explores the boundaries of the policy’s effects.
   - Supported by the 2024 Student Research and Innovation Project of Southwest University of Political Science and Law (2024XZXS-266).
 
-- 6.**Dongjie Ou**, ***How Does Urban Area Expansion Affect the Spatial Distribution of Urban Population: Is It a Pressure Release or Pressure Increase?***.
+- 7.**Dongjie Ou**, ***How Does Urban Area Expansion Affect the Spatial Distribution of Urban Population: Is It a Pressure Release or Pressure Increase?***.
   - Using the case of Chongqing’s 2020 urban area expansion reform, this study clarifies how urban area expansion influences the concentration of urban populations in central districts.
   - Reveal the key threshold constraints and driving roles of basic public services, such as basic healthcare and primary education for children, in migration decision-making.
 
