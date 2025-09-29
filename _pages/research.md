@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 ## Research Interests
-- 1. Open Digital Economy
-- 2. Urban (Agglomeration) and Regional Economics:
-  -  Urban Clusters - Population Mobility - Urban Coordinated Development
-- 3. Industrial Economics:
-  -  Industrial Agglomeration - Industrial Structural Transformation and Upgrading - Industrial Chain Collaborative Cooperation
-- 4. International Trade:
-  -  Total Firm Productivity - Firm Innovation - Regional (Economic) Integration
+- 1.Open Digital Economy
+- 2.Urban (Agglomeration) and Regional Economics:
+  - Urban Clusters - Population Mobility - Urban Coordinated Development
+- 3.Industrial Economics:
+  - Industrial Agglomeration - Industrial Structural Transformation and Upgrading - Industrial Chain Collaborative Cooperation
+- 4.International Trade:
+  - Total Firm Productivity - Firm Innovation - Regional (Economic) Integration
 
 ## Publications and Working Papers
 
