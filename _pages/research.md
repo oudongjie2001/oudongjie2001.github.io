@@ -28,6 +28,11 @@ redirect_from:
   - This paper is accepted for presentation at *the 11th Camphor Tree Economics Annual Conference (CEC)(2025)*.
   
 ### 2.Working Papers
+- Master’s Thesis: ***Uncertainty and the Geographic Reconfiguration of Multinational Supply Chains—Evidence from Inter-Country Input–Output Tables***
+  - Building on transaction cost economics and value-chain fragmentation, we develop a TPU-embedded MC–DC threshold model—where MC denotes supply-chain maintenance/continuity costs and DC denotes disruption costs—to theoretically identify the triggers and mechanisms of friend-shoring and reshoring.
+  - Using the OECD TiVA 2023 Inter-Country Input–Output (ICIO) tables, we construct multidimensional geographic indicators of value chains and systematically assess how trade policy uncertainty (TPU) reshapes multinationals’ location choices and the domestic–foreign value-added structure via optimization of supply-chain embeddedness and changes in spatial accessibility; we also depict the spatiotemporal reconfiguration of global supply-chain layouts.
+  - Further analyzing friend-shoring trade networks under uncertainty and evaluate the impact of uncertainty on supply-chain efficiency.
+
 - 1.**Dongjie Ou** and Lijun Yang, ***Industrial Structural Transformation and Industrial System Volatility: Exploring the Optimization Path of Industrial Structure from the Perspective of Division of Labor***, Currently in the ***Revision Stage for Authors (After Peer Review)*** stage of the journal [*Review of Industrial Economics*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (***CSSCI扩展版***).
   - From the perspective of division of labor, this study systematically analyzes the logic of industrial structural transformation and upgrading. It measures regional industrial structural transformation and upgrading based on two characteristics and two requirements.
   - Reveal the essence of industrial structure optimization through four key dimensions: rationalization, advancement, ecologicalization, and industrial integration.
