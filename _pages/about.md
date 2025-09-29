@@ -13,11 +13,11 @@ I am Dongjie Ou, a master’s student at the School of Economics, Southwest Univ
 I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking and trips. I grew up in Dazu District, Chongqing, located in Southwest China. It is a beautiful city.
 
 ## 🔥 News
+- 2025.09.23&emsp;A paper was selected for the Third National Doctoral Forum on Applied Economics at Xiamen University.
 - 2025.07.25&emsp;A paper has ***entered the Under Review stage*** of the journal ***Review of Development Economics*** (*SSCI*).
 - 2025.06.28&emsp;Presentation at the Annual Conference of the Lige Law and Economics Association.
 - 2025.06.16&emsp;A paper has been **accepted** by[*World Economy Papers*](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml)(*CSSCI*).
 - 2025.05.10&emsp;Presentation at 24th National University International Trade Discipline Collaboration Conference & 2025 China Forum on the Development of International Trade Discipline
-- 2025.04.23&emsp;A paper has been accepted for presentation at ***the 2025 Annual Conference of the Regional Science Association of China and the Academic Symposium on High-Quality Regional Development in the New Era***.
 - 2025.04.12&emsp;Presentation at the [***the 11th Camphor Tree Economics Annual Conference (CEC)***](https://mp.weixin.qq.com/s/j_BLWAedV5WkCToqnIyCRQ).
 - 2025.04.06&emsp;A paper has entered the *Under Review* stage of the journal *MACROECONOMIC DYNAMICS* (*SSCI*) (The result is out: Rejected)
 - 2025.03.04&emsp;A paper has ***entered the Under Review (Peer Review) stage*** of the journal [***Review of Industrial Economics***](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (*CSSCI扩展版*).
@@ -56,6 +56,7 @@ I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking 
 - 2023.11&emsp;2023 National College Business Elite Challenge - International Trade Competition (International Trade and Business Special Competition), National Second Prize
 
 ## 🧑‍🎨 Posters and Presentations
+- 2025.09&emsp;The Third Forum on Xi Jinping’s Economic Thought: Theory and Practice & Academic Symposium in Celebration of the 120th Anniversary of the School of Economics, Sichuan University.
 - 2025.06&emsp;Annual Conference of the Lige Law and Economics Association, Southwest University of Political Science and Law
 - 2025.05&emsp;The 24th National Conference of the University International Trade Discipline Cooperation Group & 2025 Forum on the Development of International Trade Discipline in China, Southwestern University of Finance and Economics
 - 2025.04&emsp;[*the 11th Camphor Tree Economics Annual Conference (CEC)*](https://mp.weixin.qq.com/s/8U7o0N42tT1zeR6OECkGDA), Wuhan, China.
