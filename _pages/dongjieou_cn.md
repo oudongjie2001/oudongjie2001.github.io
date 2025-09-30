@@ -23,7 +23,7 @@ redirect_from:
 - 2025.05.10&emsp;在*第二十四届全国高校国际贸易学科协作组会议暨2025年中国国际贸易学科发展论坛*汇报
 - 2025.04.23&emsp;一篇论文入选*2025年中国区域经济学会年会暨新时期区域高质量发展学术研讨会*
 - 2025.04.12&emsp;在[***第十一届香樟经济学年会（CEC）***](https://mp.weixin.qq.com/s/j_BLWAedV5WkCToqnIyCRQ)汇报
-- 2025.04.06&emsp;一篇论文进入期刊*MACROECONOMIC DYNAMICS*(*SSCI*) **Under Review**阶段(结果已出：退稿）
+- 2025.04.06&emsp;一篇论文进入期刊*MACROECONOMIC DYNAMICS*(*SSCI*) *Under Review*阶段(结果已出：退稿）
 - 2024.12.01&emsp;获得***2023-2024学年研究生国家奖学金***🏆<br>
     <img src='/images/National Scholarship.png' style='width: 300px; height: auto;'>
 
