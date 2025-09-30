@@ -32,6 +32,8 @@ redirect_from:
   - Building on transaction cost economics and value-chain fragmentation, we develop a TPU-embedded MC–DC threshold model—where MC denotes supply-chain maintenance/continuity costs and DC denotes disruption costs—to theoretically identify the triggers and mechanisms of friend-shoring and reshoring.
   - Using the OECD TiVA 2023 Inter-Country Input–Output (ICIO) tables, we construct multidimensional geographic indicators of value chains and systematically assess how trade policy uncertainty (TPU) reshapes multinationals’ location choices and the domestic–foreign value-added structure via optimization of supply-chain embeddedness and changes in spatial accessibility; we also depict the spatiotemporal reconfiguration of global supply-chain layouts.
   - Further analyzing friend-shoring trade networks under uncertainty and evaluate the impact of uncertainty on supply-chain efficiency.
+    <div style="display: flex; align-items: center; gap: 15px;">
+    <img src='/images/FriendNetwork_2020_NET.png' style='width: 300px; height: auto;'></div>
 
 - 1.**Dongjie Ou** and Lijun Yang, ***Industrial Structural Transformation and Industrial System Volatility: Exploring the Optimization Path of Industrial Structure from the Perspective of Division of Labor***, Currently in the ***Second-Round Review (re-review)*** stage of the journal [*Review of Industrial Economics*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (***CSSCI扩展版***).
   - From the perspective of division of labor, this study systematically analyzes the logic of industrial structural transformation and upgrading. It measures regional industrial structural transformation and upgrading based on two characteristics and two requirements.
