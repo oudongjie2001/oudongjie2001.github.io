@@ -59,7 +59,10 @@ redirect_from:
   - 研究立足交易成本经济学与价值链分段理论，构建嵌入TPU的维链成本与断链成本（MC-DC）阈值模型，从理论上揭示友岸化与本土回流等地理重组路径的触发条件与作用机制；
   - 利用OECD TiVA 2023版全球投入产出（ICIO）表，构建多维价值链地理指标，系统评估TPU如何通过供应链嵌入度优化和供应链空间可及性改变跨国企业的区位选择与国内外增值结构，并刻画全球供应链布局的时空重构模式。
   - 进一步探讨了不确定性背景下的友岸贸易网络及不确定性对供应链效率的影响。
-
+    <div style="display: flex; align-items: center; gap: 15px;">
+    <img src='/images/FriendNetwork_1995_NET.png' style='width: 300px; height: auto;'>
+    <img src='/images/FriendNetwork_2020_NET.png' style='width: 300px; height: auto;'></div>
+    
 - 1.**欧东杰**, 杨丽君, ***产业结构转型升级与产业系统波动——兼论分工视角下的产业结构优化路径***,&emsp;[*产业经济评论*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch)&emsp;(*CSSCI扩展版*)&emsp;复审修改阶段
   - 从分工视角梳理产业结构转型升级逻辑，从两个特征和两个要求角度、揭示产业结构优化本质：产业结构合理化、高度化、生态化和产业融合；并进行基于不可移动生产要素（土地）和不可移动生产要素（劳动、资本、数据和科技）的调节效应分析。
   - 论文入选*第十届张培刚发展经济学优秀成果奖、第七届张培刚发展经济学青年学者奖颁奖典礼暨“构建高水平社会主义市场经济体制推进中国式现代化”论坛*, 华中科技大学。
