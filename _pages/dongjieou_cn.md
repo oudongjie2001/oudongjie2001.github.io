@@ -15,8 +15,8 @@ redirect_from:
 ## 🔥 近期动态
 - 2025.09.29&emsp;一篇论文入选[***中国数量经济学会2025年（银川）年会***](https://mp.weixin.qq.com/s/yVCwO5t8oTkO5bTD64NLXg)
 - 2025.09.23&emsp;一篇论文入选[***第三届全国应用经济学博士生论坛***](https://conf.xmu.edu.cn/AppEconPhD/)
-- 2025.09.20&emsp;在*第三届经济思想理论与实践论坛暨四川大学经济学院120周年院庆学术研讨会*汇报
-- 2025.03.04&emsp;一篇论文在期刊[***《产业经济评论》***](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch)(*CSSCI(扩展版)*)***复审阶段***
+- 2025.09.20&emsp;在[*第三届经济思想理论与实践论坛暨四川大学经济学院120周年院庆学术研讨会*](https://mp.weixin.qq.com/s/qOUgpa5Wn1lvUhRSv4Bmqg)汇报
+- 2025.08.29&emsp;一篇论文在期刊[***《产业经济评论》***](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch)(*CSSCI(扩展版)*)***复审阶段***
 - 2025.07.25&emsp;一篇论文进入期刊***Review of Development Economics*** (*SSCI*) ***Under Review***阶段
 - 2025.06.28&emsp;在立格法律经济学联盟学术年会汇报
 - 2025.06.16&emsp;一篇论文被期刊[***《世界经济文汇》***](http://sjjjwh.magtech.com.cn/CN/0488-6364/home.shtml)(**_CSSCI_**)录用
