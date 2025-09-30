@@ -1,7 +1,7 @@
 ---
 title: "📆 My Meeting"
 excerpt: |
-  <div align="center">
+  <div style="display: flex; flex-direction: column; align-items: center;">
   <table>
     <tr>
       <td><img src="/images/lige.JPG" width="250"></td>
