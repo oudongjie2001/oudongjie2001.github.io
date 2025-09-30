@@ -101,8 +101,6 @@ redirect_from:
 - **[2024年重庆市研究生科研创新项目](https://yjsy.swupl.edu.cn/ggtz/f19991cf461c4665b20ed73bba533283.html)**, CYS240276, **主持人**（已结项）
   - 项目名称: *产业结构转型升级对产业波动的稳定器效应——兼论分工视角下的产业结构优化路径*
   - 项目成果：研究报告、论文：《产业结构转型升级对产业波动的稳定器效应——兼论分工视角下的产业结构优化路径》、《重塑视角下的产业结构转型升级与系统韧性：迈向现代化产业体系的路径探索》。
-      <div style="display: flex; align-items: center; gap: 15px;">
-    <img src='/images/Certificate of Completion for the Chongqing Graduate Innovation Project.png' style='width: 300px; height: auto;'></div>
 - **[西南政法大学2024年度学生科研创新项目](https://kyc.swupl.edu.cn/kyxm/xskyxm/8669eb1ea67147abbc6c737575674c56.htm)**, 2024XZXS-266, **主持人**
   - 项目名称: *远水也能解近渴：要素流动保障机制与城市经济韧性——来自水权改革试点的证据*
 - **西南政法大学2023年校级人才项目**, 2023-XZRCXM020, 参研人（已结项）
