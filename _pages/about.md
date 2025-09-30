@@ -13,6 +13,7 @@ I am Dongjie Ou, a master’s student at the School of Economics, Southwest Univ
 I am an optimistic idealist. Outside of my academic life, I enjoy music, hiking and trips. I grew up in Dazu District, Chongqing, located in Southwest China. It is a beautiful city.
 
 ## 🔥 News
+- 2025.09.29&emsp;A paper was selected for [***the 2025 Annual Conference of the China Society of Quantitative Economics (Yinchuan)***](https://mp.weixin.qq.com/s/yVCwO5t8oTkO5bTD64NLXg).
 - 2025.09.23&emsp;A paper was selected for [***the Third National Doctoral Forum on Applied Economics at Xiamen University***](https://conf.xmu.edu.cn/AppEconPhD/).
 - 2025.07.25&emsp;A paper has ***entered the Under Review stage*** of the journal ***Review of Development Economics*** (*SSCI*).
 - 2025.06.28&emsp;Presentation at the Annual Conference of the Lige Law and Economics Association.
