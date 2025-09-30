@@ -92,11 +92,11 @@ redirect_from:
   - *The University of the Chinese Academy of Sciences*
 
 ## Posters and Presentations
-- 2025.09&emsp;The Third Forum on Xi Jinping’s Economic Thought: Theory and Practice & Academic Symposium in Celebration of the 120th Anniversary of the School of Economics, Sichuan University
-- 2025.06&emsp;Annual Conference of the Lige Law and Economics Association, Southwest University of Political Science and Law
-- 2025.05&emsp;The 24th National Conference of the University International Trade Discipline Cooperation Group & 2025 Forum on the Development of International Trade Discipline in China, Southwestern University of Finance and Economics
+- 2025.09&emsp;[The Third Forum on Xi Jinping’s Economic Thought: Theory and Practice & Academic Symposium in Celebration of the 120th Anniversary of the School of Economics, Sichuan University](https://mp.weixin.qq.com/s/qOUgpa5Wn1lvUhRSv4Bmqg).
+- 2025.06&emsp;Annual Conference of the Lige Law and Economics Association, Southwest University of Political Science and Law.
+- 2025.05&emsp;The 24th National Conference of the University International Trade Discipline Cooperation Group & 2025 Forum on the Development of International Trade Discipline in China, Southwestern University of Finance and Economics.
 - 2025.04&emsp;[***the 11th Camphor Tree Economics Annual Conference (CEC)***](https://mp.weixin.qq.com/s/8U7o0N42tT1zeR6OECkGDA), Wuhan, China.
 - 2025.04&emsp;Southwest University of Political Science and Law School of Economics “Yuxiu Economic Review” Second Issue Release Conference and [Economics Discipline Undergraduate and Graduate Academic Growth Forum](https://mp.weixin.qq.com/s/rjAJYPOdfNiv8sYkN7FrtQ), Chongqing, China.
-- 2024.10&emsp;[**The 10th Zhang Peigang Award for Outstanding Achievements in Development Economics & the 7th Zhang Peigang Young Scholar Award in Development Economics Ceremony and the Forum on “*Building a High-Level Socialist Market Economy System to Promote Chinese Modernization*”**](http://pkcjjh.hust.edu.cn/info/1068/2780.htm), Wuhan, China
-- 2024.12&emsp;*Chinese Association for World Economics Global Governance Political Economy Forum (2024)* (Paper Accepted but not attended)
-- 2024.10&emsp;[*The 14th Graduate Academic Innovation Forum of the School of Economics, Southwest University of Political Science and Law*](https://es.swupl.edu.cn/xzjl/5fa34a3e7f324762862565d715fc1e7e.htm), Chongqing, China
+- 2024.12&emsp;*Chinese Association for World Economics Global Governance Political Economy Forum (2024)* (Paper Accepted but not attended).
+- 2024.10&emsp;[**The 10th Zhang Peigang Award for Outstanding Achievements in Development Economics & the 7th Zhang Peigang Young Scholar Award in Development Economics Ceremony and the Forum on “*Building a High-Level Socialist Market Economy System to Promote Chinese Modernization*”**](http://pkcjjh.hust.edu.cn/info/1068/2780.htm), Wuhan, China.
+- 2024.10&emsp;[*The 14th Graduate Academic Innovation Forum of the School of Economics, Southwest University of Political Science and Law*](https://es.swupl.edu.cn/xzjl/5fa34a3e7f324762862565d715fc1e7e.htm), Chongqing, China.
