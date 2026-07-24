@@ -27,12 +27,13 @@ redirect_from:
   - This paper is accepted for presentation at *the Chinese Association for World Economics Global Governance Political Economy Forum (2024)*.
   - This paper is accepted for presentation at *the 11th Camphor Tree Economics Annual Conference (CEC)(2025)*.
 - 2.**Dongjie Ou** and Lijun Yang, ***Industrial Structural Transformation and Industrial System Volatility: Exploring the Optimization Path of Industrial Structure from the Perspective of Division of Labor***,[*Review of Industrial Economics*](https://xdch.cbpt.cnki.net/WKG/WebPublication/index.aspx?mid=xdch) (***CSSCI扩展版***).
+  欧东杰,杨丽君.产业结构转型升级与产业系统波动——兼论分工视角下的产业结构优化,产业经济评论,2026,(1):121-154.
+  DOI:10.19313/j.cnki.cn10-1223/f.20251204.001.
   - From the perspective of division of labor, this study systematically analyzes the logic of industrial structural transformation and upgrading. It measures regional industrial structural transformation and upgrading based on two characteristics and two requirements.
   - Reveal the essence of industrial structure optimization through four key dimensions: rationalization, advancement, ecologicalization, and industrial integration.
   - Conduct a moderating effect analysis based on immobile production factors (land) and mobile production factors (labor, capital, data, and technology).
   - Paper accepted for presentation at *the 10th Zhang Peigang Award for Outstanding Achievements in Development Economics & the 7th Zhang Peigang Young Scholar Award in Development Economics Ceremony and the Forum on “Building a High-Level Socialist Market Economy System to Promote Chinese Modernization”*, organized by Huazhong University of Science and Technology.
   - Supported by the Chongqing Municipal Education Commission – Chongqing Postgraduate Scientific Research and Innovation Project (CYS240276).
-- 欧东杰,杨丽君.产业结构转型升级与产业系统波动——兼论分工视角下的产业结构优化[J].产业经济评论,2026,(1):121-154.DOI:10.19313/j.cnki.cn10-1223/f.20251204.001.
   
 ### 2.Working Papers
 - Master’s Thesis: ***Uncertainty and the Geographic Reconfiguration of Multinational Supply Chains—Evidence from Inter-Country Input–Output Tables***
